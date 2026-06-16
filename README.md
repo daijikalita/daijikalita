@@ -85,4 +85,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daijikalita&layout=compact&theme=radical&hide_border=true)](https://github.com/daijikalita)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daijikalita&" alt="daijikalita" /></p>
+### 📈 GitHub Contribution Streak:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daijikalita&theme=radical&hide_border=true)](https://github.com/daijikalita)
